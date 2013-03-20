@@ -1,0 +1,15 @@
+//
+//  AppDelegate.h
+//  App
+//
+//  Created by BB9z on 13-3-19.
+//  Copyright (c) 2013年 Chinamobo Co., Ltd. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
+@end
